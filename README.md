@@ -29,20 +29,6 @@ and creative utilities with AI.
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![ELRdn's GitHub stats](https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME\&show_icons=true\&theme=vue-dark\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME\&layout=compact\&theme=vue-dark\&hide_border=true)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=GITHUB_USERNAME\&theme=discord\&no-frame=true\&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## What I Build
 
 * Web applications
