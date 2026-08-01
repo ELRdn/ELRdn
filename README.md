@@ -57,7 +57,7 @@ and creative utilities with AI.
 
 ## Currently Learning
 
-<img src="https://skillicons.dev/icons?i=typescript,react,nextjs,nodejs,python,docker,git,github,ai,cpp" />
+<img src="https://skillicons.dev/icons?i=typescript,react,nextjs,nodejs,python,docker,git,github,cpp,ae,ai" />
 
 * Building maintainable web applications
 * Understanding AI-generated code
