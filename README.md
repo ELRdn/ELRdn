@@ -1,10 +1,166 @@
-# Radon-ELRdn
+<div align="center">
 
-# Hi, I'm Radon / ELRdn
+# Hi, I'm Radon / ELRdn 👋
 
-I build useful products with AI.
+### AI Builder based in Japan
 
-- Web applications
-- Automation tools
-- AI-powered creative utilities
-- Experiments in vibe coding
+Building useful web apps, automation tools,
+and creative utilities with AI.
+
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/X_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/GITHUB_USERNAME)
+
+</div>
+
+---
+
+## About Me
+
+* 🤖 Building products with AI-assisted development
+* 🛠️ Creating web apps, automation tools, and AI utilities
+* 🎨 Interested in creative technology and workflow optimization
+* 🧪 Sharing experiments, development logs, and useful tools
+* 🌱 Learning by building real products
+
+> I focus on turning ideas into working products.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![ELRdn's GitHub stats](https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME\&show_icons=true\&theme=vue-dark\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME\&layout=compact\&theme=vue-dark\&hide_border=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=GITHUB_USERNAME\&theme=discord\&no-frame=true\&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## What I Build
+
+* Web applications
+* AI-powered tools
+* Workflow automation
+* Creative utilities
+* Local AI and image-generation experiments
+* Tools that make digital creation faster and easier
+
+---
+
+## Technologies & Tools
+
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,vite,nodejs,python,git,github,vscode,vercel" />
+
+### AI & Creative Tools
+
+* OpenAI Codex
+* AI-assisted development
+* ComfyUI
+* Local image-generation workflows
+* Adobe creative tools
+* Automation and API integration
+
+---
+
+## Currently Learning
+
+<img src="https://skillicons.dev/icons?i=typescript,react,nextjs,nodejs,python,docker,git,github" />
+
+* Building maintainable web applications
+* Understanding AI-generated code
+* API integration
+* Secure application development
+* Open-source development
+* Product design and user experience
+
+---
+
+## Current Goals
+
+* Release useful open-source projects
+* Build products that people actually use
+* Improve my understanding of the code I publish
+* Contribute to open-source communities
+* Create a strong portfolio through real projects
+
+---
+
+## Featured Projects
+
+### 🚧 Coming Soon
+
+Projects created by **ELRdn** will be published here.
+
+Each project will include:
+
+* Project overview
+* Screenshots or demo
+* Setup instructions
+* Features
+* Known limitations
+* Development notes
+
+---
+
+<div align="center">
+
+### Build. Test. Improve.
+
+**Radon / ELRdn**
+
+</div>
+
+
+
+# Backend Developer in Japan👋
+### Just 20 years old 
+### Feel free to contact me anytime!👍
+#
+![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Foo_name&show_icons=true&theme=vue-dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Foo_name&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Foo_name&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![My Twitter Followers](https://badgen.net/twitter/follow/Masa36940064)](https://twitter.com/Masa36940064)
+
+
+# NOW TRAINING
+
+<p align="left">
+<a href="https://twitter.com/[Foo]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Foo]" height="30" width="40" /></a>
+<a href="[Foo_email]"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=[Foo_email]"/></a>
+</p>
+
+
+
+# My Skill (Programming Languages, Frameworks and Tools)
+
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,firebase,react,vue,next,sqlite,mysql,github,vscode,docker,laravel,cakephp,discord,php,gutlab,jquery,aws,vite" /> <br /><br />
+
+  ※Another skill and tools
+  Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
+  
+# NOW TRAINING
+
+<img src="https://skillicons.dev/icons?i=react,next,typescript,mysql,laravel,docker,vscode,github" /> <br /><br />
+
+
+<!-- --------------------------------- :) ---------------------------------- -->
+
+<br><br><br>
+
+<div align="center">
+    <h1>
+        <img src="https://user-images.githubusercontent.com/44926913/175852850-3fb6c715-1856-41ff-8c1f-94ce3b03b458.gif">・・
+        <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・・
+        <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">・・・・
+        <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・
+        <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">・・・・
+    </h1>
+  </div>
+<br><br><br>
