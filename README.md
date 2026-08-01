@@ -42,7 +42,7 @@ and creative utilities with AI.
 
 ## Technologies & Tools
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,vite,nodejs,python,git,github,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,python,git,github,vscode,blender,pr,ps,discord,npm" />
 
 ### AI & Creative Tools
 
