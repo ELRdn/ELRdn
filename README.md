@@ -2,13 +2,11 @@
 
 # Hi, I'm Radon / ELRdn 👋
 
-### AI Builder based in Japan
+### AI Builder & Creative Developer from Japan 🇯🇵
 
-Building useful web apps, automation tools,
-and creative utilities with AI.
+I build **AI-powered products, open-source tools, automation systems, and creative utilities**.
 
-### Just 16 years old 
-### Feel free to contact me anytime!👍
+I'm a **16-year-old developer**, learning by shipping real products, experimenting with new technology, and turning ideas into working software.
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/ELRadn)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ELRdn)
@@ -17,89 +15,156 @@ and creative utilities with AI.
 
 ---
 
-## About Me
+## 👋 About Me
 
-* 🤖 Building products with AI-assisted development
-* 🛠️ Creating web apps, automation tools, and AI utilities
-* 🎨 Interested in creative technology and workflow optimization
-* 🧪 Sharing experiments, development logs, and useful tools
-* 🌱 Learning by building real products
+* 🤖 Building products with **AI-assisted development**
+* 🧩 Creating web apps, developer tools, AI utilities, and automation systems
+* 🎨 Exploring the intersection of **AI × software × creative technology**
+* 🧪 Experimenting with local AI, image generation, agents, and new development workflows
+* 🌱 Learning software engineering by building real products
+* 🌍 Interested in open source and globally accessible products
 
-> I focus on turning ideas into working products.
-
----
-
-## What I Build
-
-* Web applications
-* AI-powered tools
-* Workflow automation
-* Creative utilities
-* Local AI and image-generation experiments
-* Tools that make digital creation faster and easier
+> **Ideas are cheap. Shipping is what makes them real.**
 
 ---
 
-## Technologies & Tools
+## 🚀 Featured Projects
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,python,git,github,vscode,blender,pr,ps,discord,npm" />
+### 🟣 EmoShelf
 
-### AI & Creative Tools
+A personal emoji shelf for desktop.
+
+Built as a lightweight alternative to traditional emoji pickers, with custom emoji boards, fast paste workflows, and a creator-focused UX.
+
+**Focus:** Desktop Utility / Productivity / Creative Tools
+
+---
+
+### ⚔️ Guilduo
+
+A task management system where both **humans and AI agents** can become clients and workers.
+
+Designed around quests, agent collaboration, productivity tracking, and gamified task management.
+
+> Humans aren't the only ones who can assign work.
+
+**Focus:** AI Agents / Productivity / MCP / Automation
+
+---
+
+### 🔌 DSH-SDK-MCP
+
+Developer tooling and MCP integrations for working with AI systems and agent workflows.
+
+**Focus:** Developer Tools / MCP / AI Infrastructure
+
+---
+
+### 🐾 Kyalulu
+
+An experimental platform for AI characters and character-data interoperability.
+
+Exploring compatibility between different character AI ecosystems and formats.
+
+**Focus:** Character AI / Interoperability / AI Applications
+
+---
+
+### 📊 Project StateU
+
+An experimental activity and context tracking system designed to understand digital workflows across apps and devices.
+
+The long-term goal is to make this context usable by AI agents and automation systems.
+
+**Focus:** Context Awareness / Activity Tracking / AI Agents
+
+---
+
+## 🧠 What I'm Interested In
+
+* AI Agents
+* Vibe Coding & AI-assisted development
+* MCP / Agent Tooling
+* Local AI
+* Open-source software
+* Automation
+* Creative software
+* Image generation
+* Developer experience
+* Product design
+
+---
+
+## 🛠️ Technologies & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,nodejs,python,git,github,vscode,npm,docker,blender,pr,ps" />
+</p>
+
+### AI & Creative Stack
 
 * OpenAI Codex
-* AI-assisted development
+* Claude Code
+* AI-assisted development workflows
+* MCP
 * ComfyUI
-* Local image-generation workflows
-* Adobe creative tools
-* Automation and API integration
+* Local AI models
+* Image-generation workflows
+* Adobe Creative Cloud
+* Blender
 
 ---
 
-## Currently Learning
+## 📚 Currently Learning
 
-<img src="https://skillicons.dev/icons?i=typescript,react,nextjs,nodejs,python,docker,git,github,cpp,ae,ai" />
+<p>
+  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,nodejs,python,docker,git,github,cpp" />
+</p>
 
-* Building maintainable web applications
-* Understanding AI-generated code
-* API integration
+I'm currently focusing on:
+
+* Writing maintainable TypeScript
+* Understanding AI-generated code instead of blindly accepting it
+* Modern web application architecture
+* API and MCP integration
 * Secure application development
 * Open-source development
-* Product design and user experience
+* Product design and UX
+* Building reliable AI-agent workflows
 
 ---
 
-## Current Goals
+## 🎯 Current Goals
 
-* Release useful open-source projects
-* Build products that people actually use
-* Improve my understanding of the code I publish
-* Contribute to open-source communities
-* Create a strong portfolio through real projects
+* 🚀 Ship more useful open-source products
+* 👥 Build software that people actually use
+* 🧠 Improve my software engineering fundamentals
+* 🌍 Contribute to open-source communities
+* 🤖 Explore new ways humans and AI agents can work together
+* 🎨 Combine development, AI, and creative work
+* 📈 Build a strong portfolio through real projects
 
 ---
 
-## Featured Projects
+## 💡 My Philosophy
 
-### 🚧 Coming Soon
+I don't want to learn software development only by watching tutorials.
 
-Projects created by **ELRdn** will be published here.
+I prefer to:
 
-Each project will include:
+**Build → Break → Understand → Improve → Ship**
 
-* Project overview
-* Screenshots or demo
-* Setup instructions
-* Features
-* Known limitations
-* Development notes
+AI lets me move faster, but my goal is to understand the systems I create and continuously improve the quality of what I publish.
 
 ---
 
 <div align="center">
 
-### Build. Test. Improve.
+### Build. Break. Learn. Ship.
 
 **Radon / ELRdn**
+
+<sub>Building the future one experiment at a time.</sub>
 
 </div>
 
