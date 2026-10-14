@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Radon / ELRdn 👋
+# Hi, I'm Naotaka / Radon 👋
 
 ### AI Builder & Creative Developer from Japan 🇯🇵
 
